@@ -2,9 +2,9 @@
 
 
 
-**Exercício1 - Exercício de codificação** **Objetivo**
+#### **Exercício1 - Exercício de codificação**
 
-
+#### **Objetivo**:
 
 Modele em UML e codifique a classe Impressora em Java.
 Exercício para fazer em aula com o professorAs impressoras têm um modelo, um tipo de conexão, existem impressoras que são USB e outras sem fio. Eles têm uma data de fabricação e todas sabem a quantidade de folhas disponíveis.
@@ -15,11 +15,9 @@ Exercício para fazer em aula com o professorAs impressoras têm um modelo, um t
 
 
 
-**Exercício 2 - Classes, atributos e responsabilidades**
+#### **Exercício 2 - Classes, atributos e responsabilidades**
 
-
-
-**Objetivo**
+#### **Objetivo**
 
 Identifique, modele e implemente em Java a classe envolvida na instrução especificando seus atributos, responsabilidades, pelo menos dois construtores e os getters e setters correspondentes.
 
