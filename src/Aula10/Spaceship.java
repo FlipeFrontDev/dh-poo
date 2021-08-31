@@ -26,6 +26,18 @@ public class Spaceship extends Object{
         System.out.println("Coordenadas atualizadas para: X=" + this.getPosx() + " Y=" + this.getPosy());
     }
 
+    //Sobreescrevendo método toString para identificação do objeto
+
+    @Override
+    public String toString(){
+        return "\n-------- Dados da aeronave --------" +
+                "\nCoordenadas: " +
+                "\nX: " + this.getPosx() +
+                "\nY: " + this.getPosy() +
+                "\nDireção: " + this.getDirection() +
+                "\nVelocidade da nave: " + this.velocity;
+    }
+
     //declarando método para realizar deslocamento nos eixos X ou Y conforme direção atual do objeto
     //Deslocamento visa realizar curva do objeto
     public String girar(char direction) {
