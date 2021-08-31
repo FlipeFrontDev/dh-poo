@@ -37,12 +37,10 @@ public class Spaceship extends Object{
                 case 'S':
                 case 'N':
                     if (direction == 'L') {
-//                        this.setPosy(0);
                         this.setPosx(this.getPosx() + 5);
                         break;
                     }
                     if (direction == 'O') {
-//                        this.setPosy(0);
                         this.setPosx(this.getPosx() - 5);
                         break;
                     }
@@ -51,12 +49,10 @@ public class Spaceship extends Object{
                 case 'L':
                 case 'O':
                     if (direction == 'N') {
-//                      this.setPosx(0);
                         this.setPosy(this.getPosy() + 5);
                         break;
                     }
                     if (direction == 'S') {
-//                      this.setPosx(0);
                         this.setPosy(this.getPosy() - 5);
                         break;
                     }
