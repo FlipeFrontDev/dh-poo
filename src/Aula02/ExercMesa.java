@@ -9,20 +9,17 @@ public class ExercMesa {
         Scanner ler = new Scanner(System.in);
         System.out.println("Digite um número inteiro positivo acima de 1: ");
         int num = ler.nextInt();
-
-        if (num > 1) {
+        int divisores = 0;
 
             for (int i = 2; i < num; i++) {
-
                 if (num % i == 0) {
-                    System.out.println("Não primo!");
-                    return false;
+                    divisores += 1;
+                    if (divisores > 1)
+                        break;
                 }
             }
+        return num < 0 ? false : (divisores > 1 || num < 2) ? false : true;
         }
-        System.out.println("É primo!");
-        return true;
-    }
 
     public static void main(String[] args) {
 
