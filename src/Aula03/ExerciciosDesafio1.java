@@ -11,24 +11,22 @@ public class ExerciciosDesafio1 {
         Scanner ler = new Scanner(System.in);
         System.out.println("Por favor, digite um número inteiro positivo:");
         int n = ler.nextInt();
-        int divisores = 0;
-        int numPrimo = 0;
 
         //Verifica se quantidade de números primos desejada é maior ou igual a 1
         if (n >= 1) {
 
             //Inicia laço de repetição com dois contadores - um para comparar primos e outro para contar iterações
-            for (int i = 1; i <= 101; ++i) {
-                //Verifica se um número é primo
-                for (int j = 2; i <= j; j++) {
-                    if (j % i == 0) {
-                        divisores += 1;
-                        if (divisores == 2)
-                            System.out.print(i + " ");
-                            break;
-                    }
+            for (int i = 2, j = 0; i <= 101; ++i) {
+
+                //Verifica se um número é primo usando o crivo de erastótenes até a quantidade informada na entrada
+                if (j < n && (i / 2 == 1 || i % 2 != 0) && (i / 3 == 1 || i % 3 != 0) && (i / 5 == 1 || i % 5 != 0) && (i / 7 == 1 || i % 7 != 0)) {
+                    System.out.print(i + " ");
+
+                    //Incrementa contador de comparação com quantidade informada na entrada
+                    j++;
                 }
             }
+
             //Retorna mensagem de erro caso quantidade de números seja inferior a 1
         } else {
             System.out.println("Por favor, digite um numero inteiro positivo acima de 1 como intervalo.");
