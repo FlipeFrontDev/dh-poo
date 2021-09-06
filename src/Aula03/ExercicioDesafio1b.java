@@ -24,8 +24,7 @@ public class ExercicioDesafio1b {
                         if(divisores > 1)
                             break;
                 }
-                if(divisores < 2)
-                    System.out.print(i + " ");
+                System.out.print(divisores < 2 ? i + " " : "");
             }
             //Retorna mensagem de erro caso quantidade de números seja inferior a 1
         } else {
