@@ -13,19 +13,27 @@ public class ExercicioDesafio1b {
 
         //Verifica se quantidade de números primos desejada é maior ou igual a 1
         if (n >= 1) {
+            int counter = 0;
 
             //Inicia laço de repetição - um para comparar primos e outro para contar iterações
             for (int i = 2; i <= 101; i++) {
                 int divisores = 0;
+
                 //Verifica se um número é primo usando condicionais simples
-                for(int j = 2; j <= i; j++){
-                    if(i % j == 0)
+                for (int j = 2; j <= i; j++) {
+                    if (i % j == 0)
                         divisores += 1;
-                        if(divisores > 1)
-                            break;
+                    if (divisores > 1)
+                        break;
                 }
-                System.out.print(divisores < 2 ? i + " " : "");
+
+                //Imprime a quantidade de numeros solicitados na entrada de dados
+                if(divisores < 2 && counter < n) {
+                    counter++;
+                    System.out.print(i + " ");
+                }
             }
+
             //Retorna mensagem de erro caso quantidade de números seja inferior a 1
         } else {
             System.out.println("Por favor, digite um numero inteiro positivo acima de 1 como intervalo.");
