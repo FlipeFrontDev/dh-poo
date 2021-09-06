@@ -19,7 +19,11 @@ public class ExerciciosDesafio1 {
             for (int i = 2, j = 0; i <= 101; ++i) {
 
                 //Verifica se um número é primo usando o crivo de erastótenes até a quantidade informada na entrada
-                if (j < n && (i / 2 == 1 || i % 2 != 0) && (i / 3 == 1 || i % 3 != 0) && (i / 5 == 1 || i % 5 != 0) && (i / 7 == 1 || i % 7 != 0)) {
+                if  (j < n && (i / 2 == 1 || i % 2 != 0) &&
+                    (i / 3 == 1 || i % 3 != 0) &&
+                    (i / 5 == 1 || i % 5 != 0) &&
+                    (i / 7 == 1 || i % 7 != 0)) {
+
                     System.out.print(i + " ");
 
                     //Incrementa contador de comparação com quantidade informada na entrada
