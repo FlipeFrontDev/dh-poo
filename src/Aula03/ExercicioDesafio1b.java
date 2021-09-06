@@ -14,7 +14,7 @@ public class ExercicioDesafio1b {
         //Verifica se quantidade de números primos desejada é maior ou igual a 1
         if (n >= 1) {
 
-            //Inicia laço de repetição com dois contadores - um para comparar primos e outro para contar iterações
+            //Inicia laço de repetição - um para comparar primos e outro para contar iterações
             for (int i = 2; i <= 101; i++) {
                 int divisores = 0;
                 //Verifica se um número é primo usando condicionais simples
