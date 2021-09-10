@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T14:01:05.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="eWRLWdsMRRR4NL5x85wL" version="15.1.1" type="github"><diagram id="UDOpjt26UvhGQOOWERYm" name="Page-1">7VpZb9s4EP41BtqHBDp9PPpougski2zcIum+LGiJkZhSokDRV359hyKpw5Ibd+PUAdZAYIvD0XBmvm84tJSeO002nznK4hsWYtpzrHDTc2c9xxn2HfiUgq0SeEMtiDgJlciuBHPyjLXQ0tIlCXHeUBSMUUGypjBgaYoD0ZAhztm6qfbIaHPVDEW4JZgHiLal9yQUsQ7LGVTyPzCJYrOy3R+pmQQZZR1JHqOQrWsi91PPnXLGhLpKNlNMZe5MXtR9V3tmS8c4TsUhNwQiW/z914N1z7L54pkEm5ub9YW2skJ0qQO+Ywt2i3Pwtef0KViezEkucILGPEE5yCIp0yGJrclTviYJRSmMJo8sFXM9Y8MYURKlcB2Ao5iDYIW5IJDisZ4QLANpEBMaXqMtW8pwcoGC72Y0iRknz2AWUW0TprnQbHH6DY25vBPEFkg5zkHn1uTI3hHdoE1D8RrlQgsCRinKcrIow0gQj0g6YUKwRCu1ITD5hAjxpibSkHzGLMGCb0HFzFqaHro+3KEeryu2lcUQ15g20jKkCR6VpisOwIWmwS9QwmlR4gKGOMUQPuq5Y3k/hLtLAIhXFMBw9h1PGWWA9CxlihGE0h2RIQXFj2IvJfIMBSSNrgudmVdJ7nQepIjBvY+0qKyYhCFOJZxMIIEUdhKojIHLRaL8CfxB6qbWpd/zwfEpjO1qDH9SnYspSyEWRApkMRBjjXPRiflPC+tlImjggcUH4W70jo6728K9hTElBXYKY7Md2v8J4ASgorhC9IsEfHZht1B326i7HQhTtMD0luVEECbtc6W7g/ypwPWdw8AdvhG2Xge2E7lQgNiHj6qoVwxMnKv6uMD3D9zN3bfazf3OBn+NV/jc3n9De3e999be++f2foSNwD+YCO+lvQ/O7f3NwD11ex+e2/tpgP+d7Z17T/8mky/e5OnrYkyuhw/ZP0nH73fT1kOyMt18hh9JSjjoNXu9FbCEqf0e0EABViLpZ4bTQmMpR+Aqqx4HLHh1SlAS8LyxGtmg/YuhhUQoEBJExwqNDeBIaiyU7ipn1PLKRBpwGOWK0hnmCRHSa5JI9FFv6vbGg+LTlWuxLIDtAk4VlaP1dfZH1BVOmRNb+lQsMlJ50TEJeZkiWWFLcO0ioCjPcTWtu2tZlKoiu1LY4cafQGyUBqRwJWUrldJiBXkVFuvoTCPFdVHkMFSoUooDuXfK+Q+RbPckyD/uW757m4hFUh3QXtgxeo57dTUaue4v9Ip1DGjOM0lEd7bmKCs2hWUa4vB4J7L+qHkiK2uzVsNeVw2XT2peU8R30WA6Znju9L8hfp/f2E9fnzqOZBUu6rtWoSVDzDdk2rZa5/j3c373rNOe31vU6CDQXrY4vtdki9Nmi93vYMvgCL2+kyxdvf7/eY57Adj9pba3nXsHgvtW2I7O57gTAT88DPhjnOM63bPbT91bIOM0HMs3WjBaUCY30UmI8rhojnazPYPqFZEeFADgDREP8vpy4Hh6/E2WsXVpeUYw29S0Z9va4BbOChCl7A1KlkLEyp7vDo1AGrQvbTOszBWjbX20a1BFisPWm7hWm8/Zkgf45RM8tJ8I/4wOo2461PD3O+A3Mo4pEmTVdLeLE3qFW1Y8UjFNxd9959PfoZUKU9/l1F7p7RrydwzZO4ZUHlqGCoqWYb+CtQe8MzgCa13Fstex9ogkM++h3zXJyv3rtSQrf9AenWQwrF5/K/XqfwjcTz8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-10T15:16:57.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="nu26nSFlr_-fJQjHMtwx" version="15.1.1" type="github">
+  <diagram id="UDOpjt26UvhGQOOWERYm" name="Page-1">
+    <mxGraphModel dx="2123" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s63-t1CVjEZWtZYFjVz9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="ctpbQNX0WopSbzicxMMw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-1" value="RoboPesado&lt;SistemaArmas&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="480" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-2" value="- energia: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-1" vertex="1">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-1" vertex="1">
+          <mxGeometry y="52" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-4" value="+ mostrar(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-1" vertex="1">
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s63-t1CVjEZWtZYFjVz9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.756;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" edge="1" parent="1" source="ctpbQNX0WopSbzicxMMw-5" target="s63-t1CVjEZWtZYFjVz9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-5" value="RoboLeve&lt;SistemaArmas&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="480" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-6" value="- energia: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-5" vertex="1">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-5" vertex="1">
+          <mxGeometry y="52" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-8" value="+ mostrar(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-5" vertex="1">
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r4j_mBT4BjUbAiL8XpZm-1" value="&lt;div&gt;Definir SistemaArmas como interface com apenas um metodo&lt;br&gt;&lt;/div&gt;Deixar SistemaArmas como abstract, d&lt;span&gt;efinir com metodos concretos: permite importação opcional&lt;/span&gt;&lt;br&gt;&lt;div&gt;Deixar apenas 1 método abstrato na super-classe abstrata: acao():void&lt;/div&gt;&lt;div&gt;Instanciar novas classes de armas a partir de collections (generics)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FF9933;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="252" width="410" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="s63-t1CVjEZWtZYFjVz9-6" value="&lt;&lt;abstract&gt;&gt;&#xa;SistemaArmas" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="210" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="s63-t1CVjEZWtZYFjVz9-7" value="- energia: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="s63-t1CVjEZWtZYFjVz9-6">
+          <mxGeometry y="40" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="s63-t1CVjEZWtZYFjVz9-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="s63-t1CVjEZWtZYFjVz9-6">
+          <mxGeometry y="66" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="s63-t1CVjEZWtZYFjVz9-9" value="+ mostrar():void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="s63-t1CVjEZWtZYFjVz9-6">
+          <mxGeometry y="74" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
