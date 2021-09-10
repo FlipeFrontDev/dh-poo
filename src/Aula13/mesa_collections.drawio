@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T12:30:48.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="ItqJNVNHhAQDdWe5n60H" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T15:17:02.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="KXQNx4hOQvsJ-jgeDBG_" version="15.1.1" type="github">
   <diagram id="UDOpjt26UvhGQOOWERYm" name="Page-1">
-    <mxGraphModel dx="1102" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="ctpbQNX0WopSbzicxMMw-8" value="+ acao(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-5" vertex="1">
           <mxGeometry y="60" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r4j_mBT4BjUbAiL8XpZm-1" value="&lt;div&gt;Defini-los como metodos concretos: permite importação opcional&lt;/div&gt;&lt;div&gt;Deixar apenas 1 método abstrato na super-classe: acao():void&lt;/div&gt;&lt;div&gt;Instanciar novas classes de armas a partir de collections (generics)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FF9933;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="r4j_mBT4BjUbAiL8XpZm-1" value="&lt;div&gt;Definir SistemaArmas como interface com apenas um metodo&lt;br&gt;&lt;/div&gt;Deixar SistemaArmas como abstract, d&lt;span&gt;efinir com metodos concretos: permite importação opcional&lt;/span&gt;&lt;br&gt;&lt;div&gt;Deixar apenas 1 método abstrato na super-classe abstrata: acao():void&lt;/div&gt;&lt;div&gt;Instanciar novas classes de armas a partir de collections (generics)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FF9933;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="230" width="410" height="100" as="geometry" />
         </mxCell>
       </root>
