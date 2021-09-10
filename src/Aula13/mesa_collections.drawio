@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T12:22:53.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="fw-XCRU1Vb9YqTMZav3D" version="15.1.1" type="github"><diagram id="UDOpjt26UvhGQOOWERYm" name="Page-1">7VlRj+I2EP41SO3DrkgCLPu4wN61FVttl1P3+nQyyWzinpOJHLPA/vobJzYhJMfRNoitFAmJzOex45lvxv4QPW8abz5KlkYPGIDouf1g0/NmPdd1nL5LXxrZFshgbIBQ8sA4lcCCv4EB+wZd8QCyiqNCFIqnVdDHJAFfVTAmJa6rbi8oqm9NWQg1YOEzUUefeaCiAh27NyX+C/Awsm92RrfFSMyss4kki1iA6z3Iu+95U4moiqd4MwWhk2fzUsz78J3R3cYkJOqUCYMvN7dP7Dl9+/O3cM5nvwbegl2Zzb4ysTIBL3imIGZ3MmZZzx0JWnvyiR5C/WAiUVubnmzNY8ESsiYvmKiFGXHIZoKHCT37tD+QBLyCVJwye2cGFKaE+hEXwZxtcaWjyBTzv1prEqHkb7QsE2ZNGpbKFIk7qngs9EyC+4RKyMjn0abGOYAe2KbiOGeZMoCPQrA048tdGDGTIU8mqBTGxqmeeUOGjhA2e5Bh4iNgDEpuycWMugNTFaYtdlWyLovMGRks2iuwW4MxU9fhbumSenow7P+DSrANt1cKV2RCAhQ/63l3egGK97ACKGCVMyPxK0xRIFE9S7AoCS7EAWSrQsCL+m5NZCnzeRLOc5/ZoESeTCI0hDT3ReQdFfEggETziYopVpCnmUqRtpxnajihD4U47V8Pe0Pa+JRsp7Tpo92lmmJCsTCeUwtUGWvIVCPpRxvqx5VgmR+dRrz1a594p0Z8jWTBc/IKku056PwrhmPiSkBJ6SfN+OzKqdHu1Wn3GigWbAniETOuOOr1ZeF7QP2l2B26p7E7Phe5bgO5E/0mn+FPPxdt/Yq0RtfX7TI/OvFA91o40H2VLv/4/XP/GdPF8o37m4eHtd3xHqUQkLQxJmUkwhATJu5LlPK8SgIITJZLnznmXaqb9G9QamuuYLZSqC9hFdsLmpIot5/1/GvPG1vgr/3Rmb18C2u7bz2C5BS9lgsGDO60iCNzKVDf7xr6wHUmjl/FGa6kD0fSY8UkXe9wjHjbQTp5R3mXIJjir1Xd2Dqr9cP6CZf4CBmJSyvXDiRcp9zaVG5Ov6rcvHG90Xe/XtpWbo0lUT/iO+F29IA/2lj/Rbg18t6GcGvcsdfptrOR26DbGsltQbc1bnjQybbLEN8g2xqJP5tssy+7mG4beTsg123XfWfwzrTb8P+p3YaN2m0O9N5OuZ1fuXmD96bcRp1ya+GMH55cCO9Fud10yu1s5F5auY075XYZ4s+o3Mgs/6fLx/b+7fTuvwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-10T12:30:48.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="ItqJNVNHhAQDdWe5n60H" version="15.1.1" type="github">
+  <diagram id="UDOpjt26UvhGQOOWERYm" name="Page-1">
+    <mxGraphModel dx="1102" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4_79RaWpzVJgLiDId3Sa-9" value="SistemaArmas&lt;T&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="220" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4_79RaWpzVJgLiDId3Sa-10" value="- energia: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="4_79RaWpzVJgLiDId3Sa-9" vertex="1">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4_79RaWpzVJgLiDId3Sa-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="4_79RaWpzVJgLiDId3Sa-9" vertex="1">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="4_79RaWpzVJgLiDId3Sa-12" value="+ acao(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="4_79RaWpzVJgLiDId3Sa-9" vertex="1">
+          <mxGeometry y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.338;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" parent="1" source="ctpbQNX0WopSbzicxMMw-1" target="4_79RaWpzVJgLiDId3Sa-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-1" value="RoboPesado&lt;SistemaArmas&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="380" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-2" value="- energia: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-1" vertex="1">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-1" vertex="1">
+          <mxGeometry y="52" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-4" value="+ acao(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-1" vertex="1">
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.631;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" parent="1" source="ctpbQNX0WopSbzicxMMw-5" target="4_79RaWpzVJgLiDId3Sa-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-5" value="RoboLeve&lt;SistemaArmas&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="380" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-6" value="- energia: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-5" vertex="1">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-5" vertex="1">
+          <mxGeometry y="52" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ctpbQNX0WopSbzicxMMw-8" value="+ acao(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ctpbQNX0WopSbzicxMMw-5" vertex="1">
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r4j_mBT4BjUbAiL8XpZm-1" value="&lt;div&gt;Defini-los como metodos concretos: permite importação opcional&lt;/div&gt;&lt;div&gt;Deixar apenas 1 método abstrato na super-classe: acao():void&lt;/div&gt;&lt;div&gt;Instanciar novas classes de armas a partir de collections (generics)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FF9933;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="230" width="410" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
